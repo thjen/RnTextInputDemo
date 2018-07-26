@@ -1,1 +1,1 @@
-React native text input
+React native text input demo
